@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T13:23:38.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="znbYReWWOOoS9ukJYAb-" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T13:26:47.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="h-q6YBic2uBva3h6uuXQ" version="21.5.0" type="github">
   <diagram name="Strona-1" id="uzaEDGoOtA-QUuguMvJQ">
-    <mxGraphModel dx="951" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,7 +232,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lXB5LoiNiUDFhyAUk85o-62" value="j. japoński" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
-          <mxGeometry x="410" y="554.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="420" y="555" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lXB5LoiNiUDFhyAUk85o-63" value="j. niemiecki" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="640" y="560" width="120" height="30" as="geometry" />
@@ -308,6 +308,39 @@
         </mxCell>
         <mxCell id="lXB5LoiNiUDFhyAUk85o-84" value="Historia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="10" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXB5LoiNiUDFhyAUk85o-86" value="Programowanie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="330" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXB5LoiNiUDFhyAUk85o-87" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.259;exitY=0.945;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lXB5LoiNiUDFhyAUk85o-6" target="lXB5LoiNiUDFhyAUk85o-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="630" as="sourcePoint" />
+            <mxPoint x="430" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXB5LoiNiUDFhyAUk85o-88" value="język C/C++" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="294" y="690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXB5LoiNiUDFhyAUk85o-89" value="Python" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="294" y="730" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXB5LoiNiUDFhyAUk85o-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lXB5LoiNiUDFhyAUk85o-86" target="lXB5LoiNiUDFhyAUk85o-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="690" as="sourcePoint" />
+            <mxPoint x="434" y="737" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXB5LoiNiUDFhyAUk85o-92" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lXB5LoiNiUDFhyAUk85o-86" target="lXB5LoiNiUDFhyAUk85o-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="456" y="700" as="sourcePoint" />
+            <mxPoint x="420" y="745" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="745" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
