@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T13:15:55.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZwfRnf9pBPchMZp5Hr5u" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T13:25:42.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="EhrNkeFM5ti_wEdJIuLO" version="24.6.4" type="github">
   <diagram name="Strona-1" id="6g-ppjJY28PBCX4yfmqS">
-    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E9Z5-KVDgLf2QwSz4Szn-1" value="Adventure Game" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E9Z5-KVDgLf2QwSz4Szn-3" value="Game_AE01 - Adventure Educational 001&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The purpose is to create funny, engaging math game for young people.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;What young people like? Magic, pets, superpowers&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Good vs Evil fights, powers, supernatural phenomenoms&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Emotions? Vivid, such as angry, happy, sad, nothing complex&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#333300;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="340" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
